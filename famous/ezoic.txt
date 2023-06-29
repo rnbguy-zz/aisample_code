@@ -1,0 +1,6 @@
+albert.ns.cloudflare.com -> catfish.ezoicns.com
+elinore.ns.cloudflare.com -> dolphin.ezoicns.com
+
+
+mina.moussa@hotmail.com -> ezoic login
+vivian@lasemedics.com.au -> adsense login & adsense partner with ezoic, CJ
